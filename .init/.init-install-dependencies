@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/modern-music-player-210271-210281/music_player_frontend"
+}
